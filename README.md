@@ -10,3 +10,11 @@
 ### Caminho de aprendizagem 1 - Desenvolvimento para DevOps Empresarial
 - Infos sobre devops (livros e apresentações)
   - [Livro projeto fenix](https://www.amazon.com.br/Projeto-F%C3%AAnix-Comemorativa-Romance-Neg%C3%B3cio/dp/8550814067/)
+  - [Livro Manual de Devops](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697)
+  - [Livro Projeto unicórnio, o "outro lado da cerca" do projeto fenix](https://www.amazon.com.br/Projeto-Unic%C3%B3rnio-Romance-Desenvolvedores-Disrup%C3%A7%C3%A3o/dp/6555203447)
+  - [Livro Accelerate](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B09JWS32W1)
+  - [Relatório state of devops, de 2024, é publicado anualmente, pesquisando por anos mais recentes é fácil encontrar](https://dora.dev/research/2024/dora-report/)
+  - [Video que, em essencia, "lança" o termo DevOps, na Velocity Conference de 2009](https://www.youtube.com/watch?v=LdOe18KhtT4)
+  - Postmortems sem culpa
+    - [Cultura de postmortem na Google](https://sre.google/sre-book/postmortem-culture/)
+    - [Como conduzir um post-mortem sem culpa, pela Atlassian](https://www.atlassian.com/incident-management/postmortem/blameless)
