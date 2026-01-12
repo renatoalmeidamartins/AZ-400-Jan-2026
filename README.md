@@ -29,3 +29,6 @@
 - Estratégias de branching
   - [GitFlow - uma estratégia muito popular de branching](https://nvie.com/posts/a-successful-git-branching-model/)
   - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+- Proteção de branches
+  - [No GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
+  - [No AzureDevops](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser)
