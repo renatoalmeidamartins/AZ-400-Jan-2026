@@ -15,6 +15,8 @@
   - [Livro Accelerate](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B09JWS32W1)
   - [Relatório state of devops, de 2024, é publicado anualmente, pesquisando por anos mais recentes é fácil encontrar](https://dora.dev/research/2024/dora-report/)
   - [Video que, em essencia, "lança" o termo DevOps, na Velocity Conference de 2009](https://www.youtube.com/watch?v=LdOe18KhtT4)
+  - [Não há lugar como produção](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
   - Postmortems sem culpa
     - [Cultura de postmortem na Google](https://sre.google/sre-book/postmortem-culture/)
     - [Como conduzir um post-mortem sem culpa, pela Atlassian](https://www.atlassian.com/incident-management/postmortem/blameless)
+  - [Manifesto ágil](https://agilemanifesto.org/)
