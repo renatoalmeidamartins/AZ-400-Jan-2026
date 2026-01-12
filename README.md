@@ -20,3 +20,6 @@
     - [Cultura de postmortem na Google](https://sre.google/sre-book/postmortem-culture/)
     - [Como conduzir um post-mortem sem culpa, pela Atlassian](https://www.atlassian.com/incident-management/postmortem/blameless)
   - [Manifesto ágil](https://agilemanifesto.org/)
+  - [Livro "Measure what matters", trata de métricas - OKRs - objective key results](https://www.amazon.com.br/Measure-What-Matters-Foundation-English-ebook/dp/B078FZ9SYB/)
+  - Procurar pelo livro "Stop starting, start finishing". Excelente sobre diminuição do work in progress. Não está disponível na Amazon hoje em dia.
+  - 
