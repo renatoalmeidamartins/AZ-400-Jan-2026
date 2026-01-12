@@ -26,3 +26,5 @@
     - [Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
     - [GitHub](https://github.com/pricing)
 - [Epics, iniciativas e user stories](https://www.atlassian.com/agile/project-management/epics-stories-themes)
+- Estratégias de branching
+  - [GitFlow - uma estratégia muito popular de branching](https://nvie.com/posts/a-successful-git-branching-model/)
