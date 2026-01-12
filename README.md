@@ -37,5 +37,10 @@
   - [Large file storeage - LFS](https://git-lfs.com/)
   - [Uso de depth no git clone](https://git-scm.com/docs/git-clone)
   - [Scalar - otimiza no geral a clonagem de repos](https://git-scm.com/docs/scalar)
-  - 
-  - 
+- Registro de alterações 
+  - [Uso avançado de git log](https://www.atlassian.com/git/tutorials/git-log)
+  - [Git log](https://git-scm.com/docs/git-log)
+  - [Github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+- [Limpeza de repos com git-repo-cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+- [CLI do Github](https://cli.github.com/manual/)
+- [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
