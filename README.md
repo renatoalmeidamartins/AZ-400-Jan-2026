@@ -25,3 +25,4 @@
   - Modelo de preços e licenciamento. Atenção que projetos de open-source tem certa gratuidade. Além disso, licenças de Visual Studio podem trazer agregadas licenças de GitHub ou Azure DevOps
     - [Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
     - [GitHub](https://github.com/pricing)
+- [Epics, iniciativas e user stories](https://www.atlassian.com/agile/project-management/epics-stories-themes)
