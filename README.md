@@ -33,3 +33,9 @@
   - [No GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
   - [No AzureDevops](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser)
 - [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+- Otimizando repositorios
+  - [Large file storeage - LFS](https://git-lfs.com/)
+  - [Uso de depth no git clone](https://git-scm.com/docs/git-clone)
+  - [Scalar - otimiza no geral a clonagem de repos](https://git-scm.com/docs/scalar)
+  - 
+  - 
