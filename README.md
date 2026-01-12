@@ -32,3 +32,4 @@
 - Proteção de branches
   - [No GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
   - [No AzureDevops](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser)
+- [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
