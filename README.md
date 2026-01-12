@@ -22,4 +22,6 @@
   - [Manifesto ágil](https://agilemanifesto.org/)
   - [Livro "Measure what matters", trata de métricas - OKRs - objective key results](https://www.amazon.com.br/Measure-What-Matters-Foundation-English-ebook/dp/B078FZ9SYB/)
   - Procurar pelo livro "Stop starting, start finishing". Excelente sobre diminuição do work in progress. Não está disponível na Amazon hoje em dia.
-  - 
+  - Modelo de preços e licenciamento. Atenção que projetos de open-source tem certa gratuidade. Além disso, licenças de Visual Studio podem trazer agregadas licenças de GitHub ou Azure DevOps
+    - [Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
+    - [GitHub](https://github.com/pricing)
