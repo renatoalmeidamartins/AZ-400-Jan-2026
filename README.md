@@ -44,3 +44,4 @@
 - [Limpeza de repos com git-repo-cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 - [CLI do Github](https://cli.github.com/manual/)
 - [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- [Libro clean code, interessantissimo discutindo como código bem escrito pode dispensar documentação extensa)](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
