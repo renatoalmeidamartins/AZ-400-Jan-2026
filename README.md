@@ -28,3 +28,4 @@
 - [Epics, iniciativas e user stories](https://www.atlassian.com/agile/project-management/epics-stories-themes)
 - Estratégias de branching
   - [GitFlow - uma estratégia muito popular de branching](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
