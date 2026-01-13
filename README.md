@@ -67,3 +67,9 @@
 - [Forma de autenticar GitHub com Azure, recomenda-se o uso de OIDC no lugar de segredos de service principals](https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure-openid-connect)
 - [Multi-stage build em Docker](https://docs.docker.com/build/building/multi-stage/)
 - [Comandos disponíveis num Dockerfile](https://docs.docker.com/reference/dockerfile/)
+### Caminho de aprendizagem 3 - Projetar e implementar uma estratégia de lançamento
+- Alguns conceitos de GitOps
+  - [Definição de gitops pela Atlassian](https://www.atlassian.com/git/tutorials/gitops)
+  - [Uma das soluções que suportam GitOps em Kubernetes, argoCD](https://argo-cd.readthedocs.io/en/stable/)
+- [Multi-step web test não existe desde o fim de 2024](https://azure.microsoft.com/en-us/updates?id=retirement-notice-transition-to-custom-availability-tests-in-application-insights)
+  - [Azure app testing, sucessor do Azure load testing](https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing)
