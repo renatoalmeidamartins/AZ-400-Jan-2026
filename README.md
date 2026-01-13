@@ -54,3 +54,9 @@
 - [Info com software instalado em cada tipo de agente no Azure pipelines - note que ao clicar nos links detalhados, ele vai pra documentação de GitHub actions, que ao final é a mesma coisa](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=windows-images%2Cyaml)
 - [Job baseado em container, com este se tem um controle mais findo das versões dos componentes instalados do que em um baseado em agente, dado que você o define via Dockerfile](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=windows)
 - [Job de deplyment](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops)
+- [Tipos de autenticação em agentes self-hosted](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/agent-authentication-options?view=azure-devops)
+- [Permissões em Azure pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/policies/permissions?view=azure-devops)
+- [Custo e configuracão de jobs paralelos](https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=self-hosted)
+- Definindo requisitos especiais para pipelines e como combiná-los com recursos oferecidos pelo agente
+  - [Demandas do pipeline](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/pool-demands?view=azure-pipelines)
+  - [Capacidades oferecidas pelo agente](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=yaml%2Cbrowser#capabilities)
