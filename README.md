@@ -48,3 +48,6 @@
 - [CLI do Github](https://cli.github.com/manual/)
 - [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 - [Libro clean code, interessantissimo discutindo como código bem escrito pode dispensar documentação extensa)](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
+### Caminho de aprendizagem 2 - Implementar a CI com o Azure Pipelines e o GitHub Actions
+- [Referência de tarefas disponíveis em Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
+- 
