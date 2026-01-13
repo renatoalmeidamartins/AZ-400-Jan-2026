@@ -65,3 +65,4 @@
 - [Criando ações para GitHub Actions](https://docs.github.com/en/actions/how-tos/create-and-publish-actions)
 - [Eventos que podem ser usados como triggers de workflows](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows)
 - [Forma de autenticar GitHub com Azure, recomenda-se o uso de OIDC no lugar de segredos de service principals](https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure-openid-connect)
+- [Multi-stage build em Docker](https://docs.docker.com/build/building/multi-stage/)
