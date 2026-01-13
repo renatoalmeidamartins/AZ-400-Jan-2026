@@ -29,6 +29,22 @@
 - Estratégias de branching
   - [GitFlow - uma estratégia muito popular de branching](https://nvie.com/posts/a-successful-git-branching-model/)
   - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+  - [Extensão para lidar com gitflow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+  - [Estratégia de forking](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+    
 - Proteção de branches
   - [No GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
   - [No AzureDevops](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser)
+- [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+- Otimizando repositorios
+  - [Large file storeage - LFS](https://git-lfs.com/)
+  - [Uso de depth no git clone](https://git-scm.com/docs/git-clone)
+  - [Scalar - otimiza no geral a clonagem de repos](https://git-scm.com/docs/scalar)
+- Registro de alterações 
+  - [Uso avançado de git log](https://www.atlassian.com/git/tutorials/git-log)
+  - [Git log](https://git-scm.com/docs/git-log)
+  - [Github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+- [Limpeza de repos com git-repo-cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+- [CLI do Github](https://cli.github.com/manual/)
+- [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- [Libro clean code, interessantissimo discutindo como código bem escrito pode dispensar documentação extensa)](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
