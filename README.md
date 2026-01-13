@@ -1,5 +1,8 @@
 # AZ-400-Jan-2026
 
+## Meus dados de contato
+- [Perfil do Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins@gmail.com
 ## Links do material/labs
 - [Repo antigo do curso, cujos labs temos agora](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions)
 - [Repo novo do curso, ainda sem os labs associados](https://github.com/MicrosoftLearning/mslearn-devops)
