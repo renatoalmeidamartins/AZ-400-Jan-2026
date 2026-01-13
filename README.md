@@ -53,3 +53,4 @@
 - [Hierarquia (stage -> job -> step) de um pipeline](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/pipeline?view=azure-pipelines)
 - [Info com software instalado em cada tipo de agente no Azure pipelines - note que ao clicar nos links detalhados, ele vai pra documentação de GitHub actions, que ao final é a mesma coisa](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=windows-images%2Cyaml)
 - [Job baseado em container, com este se tem um controle mais findo das versões dos componentes instalados do que em um baseado em agente, dado que você o define via Dockerfile](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=windows)
+- [Job de deplyment](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops)
