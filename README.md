@@ -50,4 +50,5 @@
 - [Libro clean code, interessantissimo discutindo como código bem escrito pode dispensar documentação extensa)](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
 ### Caminho de aprendizagem 2 - Implementar a CI com o Azure Pipelines e o GitHub Actions
 - [Referência de tarefas disponíveis em Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
-- 
+- [Hierarquia (stage -> job -> step) de um pipeline](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/pipeline?view=azure-pipelines)
+- [Info com software instalado em cada tipo de agente no Azure pipelines - note que ao clicar nos links detalhados, ele vai pra documentação de GitHub actions, que ao final é a mesma coisa](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=windows-images%2Cyaml)
