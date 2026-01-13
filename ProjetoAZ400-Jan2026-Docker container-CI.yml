@@ -1,0 +1,16 @@
+name: $(date:yyyyMMdd)$(rev:.r)
+jobs:
+- job: Job_1
+  displayName: Agent job 1
+  pool:
+    vmImage: windows-2019
+  steps:
+  - checkout: self
+    fetchDepth: 1
+  - task: Docker@0
+    displayName: Build an image
+  - task: Docker@0
+    displayName: Push an image
+    inputs:
+      action: Push an image
+...
