@@ -71,5 +71,8 @@
 - Alguns conceitos de GitOps
   - [Definição de gitops pela Atlassian](https://www.atlassian.com/git/tutorials/gitops)
   - [Uma das soluções que suportam GitOps em Kubernetes, argoCD](https://argo-cd.readthedocs.io/en/stable/)
-- [Multi-step web test não existe desde o fim de 2024](https://azure.microsoft.com/en-us/updates?id=retirement-notice-transition-to-custom-availability-tests-in-application-insights)
+- Testes de disponibilidade
+  - [Multi-step web test não existe desde o fim de 2024](https://azure.microsoft.com/en-us/updates?id=retirement-notice-transition-to-custom-availability-tests-in-application-insights)
   - [Azure app testing, sucessor do Azure load testing](https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing)
+- [Eventos de ciclo de vida de um release](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops#descriptions-of-lifecycle-hooks)
+- [Lista de integrações suportadas nativamente no Azure Devops](https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?view=azure-devops)
