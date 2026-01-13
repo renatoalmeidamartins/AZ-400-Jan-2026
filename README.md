@@ -60,3 +60,5 @@
 - Definindo requisitos especiais para pipelines e como combiná-los com recursos oferecidos pelo agente
   - [Demandas do pipeline](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/pool-demands?view=azure-pipelines)
   - [Capacidades oferecidas pelo agente](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=yaml%2Cbrowser#capabilities)
+- [Task de ADO para publicar resultados de teste](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/publish-code-coverage-results-v2?view=azure-pipelines)
+- [Uma das tasks de publicar resultado de teste em GitHub actions - publica em coveralls.io](https://github.com/coverallsapp/github-action?tab=readme-ov-file)
