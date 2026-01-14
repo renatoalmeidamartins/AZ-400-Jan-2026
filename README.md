@@ -81,3 +81,9 @@
 - [Lista de integrações suportadas nativamente no Azure Devops](https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?view=azure-devops)
 - [Lista de variaveis pre-definidas de release](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/variables?view=azure-devops&tabs=batch)
 - [Lista de variáveis pre-definidas como um todo (para além de pipelines de release)](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#pipeline-variables)
+
+### Caminho de aprendizagem 4 - implementar uma implantação contínua segura usando o Azure Pipelines
+
+### Caminho de aprendizagem 5 - Gerenciar a infraestrutura como código usando o Azure e o DSC
+
+
