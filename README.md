@@ -89,7 +89,7 @@
   - [Conceito](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/feature-flags)
   - [Azure App Configuration, serviço que possibilita o uso de feature flag, entre outras coisas](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
   - [Detalhes do App Configuration para feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
-  - 
+- [Análise automatizada de canary no Netflix](https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69)
 ### Caminho de aprendizagem 5 - Gerenciar a infraestrutura como código usando o Azure e o DSC
 
 
