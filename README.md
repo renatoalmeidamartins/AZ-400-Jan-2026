@@ -79,3 +79,5 @@
   - [Azure app testing, sucessor do Azure load testing](https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing)
 - [Eventos de ciclo de vida de um release](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops#descriptions-of-lifecycle-hooks)
 - [Lista de integrações suportadas nativamente no Azure Devops](https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?view=azure-devops)
+- [Lista de variaveis pre-definidas de release](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/variables?view=azure-devops&tabs=batch)
+- [Lista de variáveis pre-definidas como um todo (para além de pipelines de release)](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#pipeline-variables)
