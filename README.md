@@ -106,3 +106,4 @@
 - [Uso de Workflows de powershell em Azure Automation](https://learn.microsoft.com/en-us/system-center/sma/overview-powershell-workflows?view=sc-sma-2025)
 - [Runbook workers hibridos](https://learn.microsoft.com/en-us/azure/automation/automation-hybrid-runbook-worker)
 - [Modulo de Workflow em powershell](https://learn.microsoft.com/en-us/powershell/module/psworkflow/?view=powershell-5.1)
+- [PowerShell DSC](https://learn.microsoft.com/en-us/powershell/scripting/dsc/overview?view=powershell-7.5)
