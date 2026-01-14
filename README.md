@@ -90,6 +90,9 @@
   - [Azure App Configuration, serviço que possibilita o uso de feature flag, entre outras coisas](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
   - [Detalhes do App Configuration para feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
 - [Análise automatizada de canary no Netflix](https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69)
+- [Roles disponíveis no GitHub variam em função do tipo de conta que se tem](docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/types-of-github-accounts#enterprise-managed-users)
+- [Identidades federadas são suportadas no Azure DevOps](https://devblogs.microsoft.com/devops/workload-identity-federation-for-azure-deployments-is-now-generally-available/)
+- [Identidades federadas no GitHub](https://docs.github.com/en/actions/how-tos/secure-your-work/security-harden-deployments/oidc-in-azure)
 ### Caminho de aprendizagem 5 - Gerenciar a infraestrutura como código usando o Azure e o DSC
 
 
