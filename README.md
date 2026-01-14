@@ -93,6 +93,16 @@
 - [Roles disponíveis no GitHub variam em função do tipo de conta que se tem](docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/types-of-github-accounts#enterprise-managed-users)
 - [Identidades federadas são suportadas no Azure DevOps](https://devblogs.microsoft.com/devops/workload-identity-federation-for-azure-deployments-is-now-generally-available/)
 - [Identidades federadas no GitHub](https://docs.github.com/en/actions/how-tos/secure-your-work/security-harden-deployments/oidc-in-azure)
+- [Serviços que suportam managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/managed-identities-status)
+- [Tarefa DownloadSecureFile em Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/download-secure-file-v1?view=azure-pipelines&tabs=windows)
+- [Consumindo segredos de Azure Key Vault em Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/azure-key-vault?view=azure-devops&tabs=managedidentity%2Cyaml)
 ### Caminho de aprendizagem 5 - Gerenciar a infraestrutura como código usando o Azure e o DSC
-
-
+- [Suporte para export de recursos em Terraform no Portal](https://techcommunity.microsoft.com/blog/azuretoolsblog/announcing-public-preview-of-terraform-export-from-the-azure-portal/4409889)
+- [Uso de segredos em templates ARM](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli)
+- [Extensão Bicep para VS Code](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code?tabs=azure-cli)
+- [Runbooks sairam do Technet gallery e foram para repo GitHub](https://techcommunity.microsoft.com/blog/azuregovernanceandmanagementblog/azure-automation-runbooks-moving-to-github/2039337)
+- [Repo com runbooks](https://github.com/azureautomation/runbooks/tree/master/Utility)
+- [Codigo do Azure Automation pode (e deve) estar em controle de vers~ao](https://learn.microsoft.com/en-us/azure/automation/source-control-integration)
+- [Uso de Workflows de powershell em Azure Automation](https://learn.microsoft.com/en-us/system-center/sma/overview-powershell-workflows?view=sc-sma-2025)
+- [Runbook workers hibridos](https://learn.microsoft.com/en-us/azure/automation/automation-hybrid-runbook-worker)
+- [Modulo de Workflow em powershell](https://learn.microsoft.com/en-us/powershell/module/psworkflow/?view=powershell-5.1)
