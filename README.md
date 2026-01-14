@@ -83,7 +83,13 @@
 - [Lista de variáveis pre-definidas como um todo (para além de pipelines de release)](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml#pipeline-variables)
 
 ### Caminho de aprendizagem 4 - implementar uma implantação contínua segura usando o Azure Pipelines
-
+- [12-factor app, uma boa referência para produção de aplicações "modernas" ](https://12factor.net/)
+- [Deployment slots em app services](https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots?tabs=portal)
+- Feature flags
+  - [Conceito](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/feature-flags)
+  - [Azure App Configuration, serviço que possibilita o uso de feature flag, entre outras coisas](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
+  - [Detalhes do App Configuration para feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
+  - 
 ### Caminho de aprendizagem 5 - Gerenciar a infraestrutura como código usando o Azure e o DSC
 
 
