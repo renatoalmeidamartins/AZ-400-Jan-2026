@@ -108,3 +108,4 @@
 - [Runbook workers hibridos](https://learn.microsoft.com/en-us/azure/automation/automation-hybrid-runbook-worker)
 - [Modulo de Workflow em powershell](https://learn.microsoft.com/en-us/powershell/module/psworkflow/?view=powershell-5.1)
 - [PowerShell DSC](https://learn.microsoft.com/en-us/powershell/scripting/dsc/overview?view=powershell-7.5)
+- [Modeos de deployment de um ARM template - incremental e complete](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-modes)
