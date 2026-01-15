@@ -135,4 +135,5 @@ https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=91827
 - [Resource Graph Explorer, serviço que te deixa consultar dados de toda a sua estrutura de Azure, utilizando KQL](https://learn.microsoft.com/en-us/azure/governance/resource-graph/overview)
 - [Uso de dashboards no Azure](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards)
 - [GitHub publicando mensagens no Teams, via app](https://teams.github.com/)
-- [Azure DevOps publicando no Teams](learn.microsoft.com/en-us/azure/devops/service-hooks/services/teams?view=azure-devops)
+- [Azure DevOps publicando no Teams](https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/teams?view=azure-devops)
+- [Conector do Azure para criação de eventos em serviços de ITSM - suportados são: ServiceNoe, Provance, Cherwell, SCSM](https://marketplace.microsoft.com/en-us/product/azure-services/microsoft.itsmconnector?tab=Overview)
