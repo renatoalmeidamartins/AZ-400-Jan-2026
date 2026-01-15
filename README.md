@@ -111,6 +111,17 @@
 - [Modeos de deployment de um ARM template - incremental e complete](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-modes)
 
 ### Caminho de aprendizagem 6 - implementar a segurança e validar bases de código para conformidade
+- [Arquitetura zero trust, conforme definidopelo NIST](https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-207.pdf)
+- [Exploits of a mom, tirinha do XKCD exemplificando de forma divertida um ataque de SQL injection](https://xkcd.com/327/)
+- [Ferramenta de modelagem de ameaças publicada pelo OWASP](https://owasp.org/www-project-threat-dragon/)
+- [OWASP também pubilca o top 10, ilustrando os principais ataques a aplicações](https://owasp.org/www-project-top-ten/)
+- [Threat modeling tool, ferramenta de modelagem de ameaças publicada pela MS](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
+- [CodeQL, linguagem de análise semântica de código no GitHub para detecção de vulnerabilidades no código](https://codeql.github.com/)
+- [Recursos para aprendizado de codeQL](https://github.com/advanced-security/awesome-codeql?tab=readme-ov-file)
+- [Dependabot do GitHub, te ajuda a identificar vulnerabilidades nos seus pacotes](https://docs.github.com/en/code-security/how-tos/secure-your-supply-chain/secure-your-dependencies/configuring-dependabot-security-updates)
+- [Microsoft Defender for Cloud tem vários planos, que protegem variados tipos de recursos](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)
+- [Linguagem de definicao de politicas no Azure](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics)
+- [Bloqueios de recursos no Azure - resource lock, com dois "sabores": DoNotDelete, ReadOnly](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)
 ### Caminho de aprendizagem 7 - Projetar e implementar uma estratégia de gerenciamento de dependência
 ### Caminho de aprendizagem 8 - AZ-400: Implementar comentários contínuos (continuous feedback)
 
