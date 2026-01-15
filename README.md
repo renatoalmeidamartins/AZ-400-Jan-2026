@@ -137,3 +137,4 @@ https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=91827
 - [GitHub publicando mensagens no Teams, via app](https://teams.github.com/)
 - [Azure DevOps publicando no Teams](https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/teams?view=azure-devops)
 - [Conector do Azure para criação de eventos em serviços de ITSM - suportados são: ServiceNoe, Provance, Cherwell, SCSM](https://marketplace.microsoft.com/en-us/product/azure-services/microsoft.itsmconnector?tab=Overview)
+- [Smart detection no application insights está sendo removido, privilegiando a configuração por alertas](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-smart-detections-migration)
