@@ -109,3 +109,8 @@
 - [Modulo de Workflow em powershell](https://learn.microsoft.com/en-us/powershell/module/psworkflow/?view=powershell-5.1)
 - [PowerShell DSC](https://learn.microsoft.com/en-us/powershell/scripting/dsc/overview?view=powershell-7.5)
 - [Modeos de deployment de um ARM template - incremental e complete](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-modes)
+
+### Caminho de aprendizagem 6 - implementar a segurança e validar bases de código para conformidade
+### Caminho de aprendizagem 7 - Projetar e implementar uma estratégia de gerenciamento de dependência
+### Caminho de aprendizagem 8 - AZ-400: Implementar comentários contínuos (continuous feedback)
+
