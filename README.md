@@ -131,4 +131,8 @@ https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=91827
 - [GitHub packages](https://docs.github.com/en/packages/quickstart)
 ### Caminho de aprendizagem 8 - AZ-400: Implementar comentários contínuos (continuous feedback)
 - [Livros de SRE, gratuitos, no Google.](https://sre.google/books/)
-
+- [Repositorio com queries em KQL](https://github.com/microsoft/AzureMonitorCommunity)
+- [Resource Graph Explorer, serviço que te deixa consultar dados de toda a sua estrutura de Azure, utilizando KQL](https://learn.microsoft.com/en-us/azure/governance/resource-graph/overview)
+- [Uso de dashboards no Azure](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards)
+- [GitHub publicando mensagens no Teams, via app](https://teams.github.com/)
+- [Azure DevOps publicando no Teams](learn.microsoft.com/en-us/azure/devops/service-hooks/services/teams?view=azure-devops)
