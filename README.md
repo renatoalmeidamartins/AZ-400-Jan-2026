@@ -122,6 +122,10 @@
 - [Microsoft Defender for Cloud tem vários planos, que protegem variados tipos de recursos](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)
 - [Linguagem de definicao de politicas no Azure](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics)
 - [Bloqueios de recursos no Azure - resource lock, com dois "sabores": DoNotDelete, ReadOnly](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)
+- [GitHub Advanced security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 ### Caminho de aprendizagem 7 - Projetar e implementar uma estratégia de gerenciamento de dependência
+- [Semantic versioning](https://semver.org/lang/pt-BR/)
+- [Permissões em feeds do Azure artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops)
+- [GitHub packages](https://docs.github.com/en/packages/quickstart)
 ### Caminho de aprendizagem 8 - AZ-400: Implementar comentários contínuos (continuous feedback)
 
