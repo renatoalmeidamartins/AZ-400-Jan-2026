@@ -130,4 +130,5 @@ https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=91827
 - [Permissões em feeds do Azure artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops)
 - [GitHub packages](https://docs.github.com/en/packages/quickstart)
 ### Caminho de aprendizagem 8 - AZ-400: Implementar comentários contínuos (continuous feedback)
+- [Livros de SRE, gratuitos, no Google.](https://sre.google/books/)
 
