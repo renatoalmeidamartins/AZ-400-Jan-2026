@@ -11,6 +11,12 @@ https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=91827
 - [Acesso ao laboratorio](https://esi.learnondemand.net/), você precisará de uma chave do treinamento, que será passada no chat da turma
 - [Material do curso no MS-Learn](https://learn.microsoft.com/pt-br/credentials/certifications/exams/az-400/?tab=tab-learning-paths)
 
+## Ideia para preparacao para o exame
+Pode-se usar uma ferramenta de IA qualquer (ChatGPT, Gemini, Copilot) com um prompt parecido com o abaixo:
+```
+Estou me preparando para o exame AZ-400. Quero que voce seja meu assistente de estudo, e crie questoes que se parecem com as questoes do exame, em formato e conteudo. APos minha resposta, comente o que eu acertei e errei, apresentando links para estudo adicional. Aqui esta o guia de estudo do exame https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400 e as questoes tendem a ter formatos de multipla escolha, ou as vezes baseado em cenario, conforme descrito com mais detalhes aqui https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
+Nao apresenta as respostas ate que eu informe a minha escolha. Vamos comecar?
+```
 ## Links por "caminho de aprendizagem" 
 ### Caminho de aprendizagem 1 - Desenvolvimento para DevOps Empresarial
 - Infos sobre devops (livros e apresentações)
